@@ -10,4 +10,4 @@ My name is *Patrick Akihiro* and I'm knew at this stuff so I'm not sure if I'll 
 
 patrickakihiro@gmail.com
 
-![](https://media.tenor.com/8tgG_KyJqqwAAAAi/happy-happy-happy-happy.gif}
+![](https://media1.tenor.com/m/upKVn2R-dJ8AAAAC/madness-combat-madness.gif)
