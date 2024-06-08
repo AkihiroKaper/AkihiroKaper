@@ -4,7 +4,7 @@ My name is *Patrick Akihiro* and I'm knew at this stuff so I'm not sure if I'll 
 
 - I'm currently learning `JavaScript` on **[Alura](https://www.alura.com.br/)**
 - Willing to learn `Python` too
-- And I'm using this space to organize and share my projects so I can improve my skills (if I have any 😆) with your comments and hints 👍😃
+- And I'm using this space to organize and share my projects so I can improve my skills on programming (if I have any 😆) with your comments and hints 👍😃
 
 ## You can contact me 📫
 
