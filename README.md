@@ -1,16 +1,13 @@
-## Hi there 👋
+## Welcome to my page!! 🧡
 
-<!--
-**AkihiroKaper/AkihiroKaper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is *Patrick Akihiro* and I'm knew at this stuff so I'm not sure if I'll be uploading that many of projects, but I'll try best to! 😉😄
 
-Here are some ideas to get you started:
+- I'm currently learning `JavaScript` on **[Alura](https://www.alura.com.br/)**
+- Japanese in the `[Escola de Língua Japonesa - Bunkyo Suzano](https://cblj.org.br/pt/escola/2160/escola-de-lingua-japonesa-bunkyo-suzano)`
+- And I'm using this space to organize and share my projects so I can improve my skills (if I have any 😆) with your comments and hints 👍😃
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## You can contact me 📫
+
+patrickakihiro@gmail.com
+
+![](https://media.tenor.com/8tgG_KyJqqwAAAAi/happy-happy-happy-happy.gif}
